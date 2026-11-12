@@ -1,16 +1,15 @@
-## Hi there 👋
+## hi there, i'm milena
 
-<!--
-**minarichan/minarichan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm a cybersecurity and network engineering student in berlin.
+my main interests include back-end and blockchain development.
 
-Here are some ideas to get you started:
+## my technical skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+front-end: typescript, javascript, html / css
+back-end: python, rust, c#
+scripting: bash, powershell
+blockchain specific: solidity 
+
+## languages most used
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=minarichan&langs_count=5&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=minarichan&langs_count=5&theme=midnight-purple)
